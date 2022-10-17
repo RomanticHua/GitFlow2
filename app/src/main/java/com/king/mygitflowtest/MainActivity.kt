@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         Log.e(TAG, "onCreate:  release hot")
 
         Log.e(TAG, "onCreate:  release 2.0.0")
+        Log.e(TAG, "onCreate:  release 2.0.1")
 
     }
 }
