@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.e(TAG, "onCreate:  rss-feed")
+        Log.e(TAG, "onCreate:  release 1.1.5")
 
     }
 }
