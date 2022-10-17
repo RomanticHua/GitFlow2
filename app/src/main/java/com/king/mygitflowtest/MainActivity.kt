@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.e(TAG, "onCreate:  rss-feed")
         Log.e(TAG, "onCreate:  release 1.1.5")
+        Log.e(TAG, "onCreate:  release hot")
 
     }
 }
