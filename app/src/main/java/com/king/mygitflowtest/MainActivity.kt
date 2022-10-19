@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.e(TAG, "onCreate:  release v1.0.0")
+        Log.e(TAG, "onCreate:  release v1.0.1")
 
     }
 }
