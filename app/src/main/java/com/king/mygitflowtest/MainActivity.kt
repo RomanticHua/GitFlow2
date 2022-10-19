@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.e(TAG, "onCreate:  release v1.0.0")
         Log.e(TAG, "onCreate:  release v1.0.1")
+        Log.e(TAG, "onCreate:  release v1.0.2")
 
     }
 }
