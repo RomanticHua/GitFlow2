@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.e(TAG, "onCreate:  develop 修改了。。。")
         Log.e(TAG, "onCreate:  develop 修改了222。。。")
+        Log.e(TAG, "onCreate:  release...。")
 
 
     }
