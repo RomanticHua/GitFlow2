@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.e(TAG, "onCreate:  develop 修改了。。。")
+        Log.e(TAG, "onCreate:  develop 修改了222。。。")
 
 
     }
